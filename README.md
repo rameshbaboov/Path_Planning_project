@@ -86,9 +86,10 @@ A really helpful resource for doing this project and creating smooth trajectorie
     git checkout e94b6e1
     ```
 
-# Algorithm
+## Algorithm
 
 The project uses the below algorithm:
+
    1. Read the current position of Car and its Yaw (x,y,s,d,yaw) from the JSON file provided by simulator
    2. Read the sensor fusion data of the nearby cars to track their position
    3. For each of the identified vehicle do the following:
@@ -146,7 +147,10 @@ The code compiles correctly – Code compiles correctly without any error
    * The car is able to change lanes – The car changes lane if there are any cars that are blocking
      the way
    * There is a reflection on how to generate paths – Yes. The Reflection is easily seen
-https://github.com/rameshbaboov/Path_Planning_project/blob/master/img/1.JPG
+   
+   <img src= "https://github.com/rameshbaboov/Path_Planning_project/blob/master/img/1.JPG" width="500" >
+   <img src= "https://github.com/rameshbaboov/Path_Planning_project/blob/master/img/2.JPG" width="500" >
+   
 
 # Acknowledgement
 
