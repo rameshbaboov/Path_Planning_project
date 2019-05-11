@@ -87,9 +87,7 @@ A really helpful resource for doing this project and creating smooth trajectorie
     git checkout e94b6e1
     ```
 
-//
-
-## Algorithm
+# Algorithm
 
 The project uses the below algorithm:
    1. Read the current position of Car and its Yaw (x,y,s,d,yaw) from the JSON file provided by simulator
